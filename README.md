@@ -1,6 +1,6 @@
 # PrimeWork HRMS
 Human Resource Management system </br>
-Available Features:
+# Available Features: </br>
 Admin Panel
 Employee Panel
 Setup Department, Designation
