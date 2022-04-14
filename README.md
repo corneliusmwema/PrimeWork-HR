@@ -1,5 +1,5 @@
 # PrimeWork HRMS
-Human Resource Management system
+Human Resource Management system </br>
 Available Features:
 Admin Panel
 Employee Panel
