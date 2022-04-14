@@ -1,2 +1,2 @@
 # PrimeWork
- My Final year Project
+ Human Resource Management system
